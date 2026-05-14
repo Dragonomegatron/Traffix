@@ -1,0 +1,6 @@
+__pycache__/
+.ultralytics/
+
+videos/
+sumo_test/logs/checkpoints/
+sumo_test/traffic_tensorboard/
